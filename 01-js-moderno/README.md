@@ -32,3 +32,7 @@ Esta carpeta contiene ejemplos y ejercicios para dominar las características mo
 - [JavaScript Modules (en inglés) - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
 Lee el código en la carpeta `tareas/`
+
+# Para ejecutarlo poner lo siguiente en la terminal:
+# python3 -m http.server 550
+# Y en el navegador poner: http://localhost:5500/01-js-moderno/tareas-ejercicio/index.html
